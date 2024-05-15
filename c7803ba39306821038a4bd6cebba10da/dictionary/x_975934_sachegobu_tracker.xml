@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="06e24aff9302c21038a4bd6cebba10d9" extends="task" label="Tracker" max_length="40" name="x_975934_sachegobu_tracker" type="collection">
+        <element label="Nickname" max_length="16" name="nickname" type="string"/>
+    </element>
+</database>

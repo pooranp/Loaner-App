@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">109b8828d9313110cedf7dffddb48f0b</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-15 15:42:45</sys_created_on>
+        <sys_id>0bf20eff9302c21038a4bd6cebba1018</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="SacheGobu Tracker" source="x_975934_sachegobu">c7803ba39306821038a4bd6cebba10da</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-15 15:42:45</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
