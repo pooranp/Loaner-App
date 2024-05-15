@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-15 15:48:20</sys_created_on>
+        <sys_id>ef244a339342c21038a4bd6cebba108a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_975934_sachegobu_tracker.x_975934_sachegobu.admin</sys_name>
+        <sys_package display_value="SacheGobu Tracker" source="x_975934_sachegobu">c7803ba39306821038a4bd6cebba10da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SacheGobu Tracker">c7803ba39306821038a4bd6cebba10da</sys_scope>
+        <sys_security_acl display_value="x_975934_sachegobu_tracker">7ef2caff9302c21038a4bd6cebba10e8</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_ef244a339342c21038a4bd6cebba108a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-15 15:48:20</sys_updated_on>
+        <sys_user_role display_value="x_975934_sachegobu.admin" name="x_975934_sachegobu.admin">5b10f53793ce821038a4bd6cebba101c</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
